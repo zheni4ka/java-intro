@@ -6,6 +6,7 @@ class Homework {
 
     public static void pauseclear()
     {
+        
         try {
                 Thread.sleep(500);
             } catch(InterruptedException e) {
